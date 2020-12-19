@@ -3,7 +3,7 @@
 <img src="https://github.com/ybkm/TIL/blob/master/SMEC/images/working-from-anywhere.jpg"  width="640px">
 
 
-投資による収入を増やし、<span style="font-size: 140%; color: LightCoral;">FIRE</span>(financial independence retire early）することが目的です
+投資による収入を増やし、<span style="font-size: 140%; color: LightCoral;">**FIRE**</span>(financial independence retire early）することが目的です
 
 # ■基本的な考え
 
